@@ -14,7 +14,7 @@ I've tried it on a Gigabit network without any problems. But when you splice the
 Turn the connection off via a web page on your Wifi:
 ![Display](webpage.jpg)
 
-The code only works with relay boards that look exctly like this:. 
+The code only works with relay boards that look exactly like this:. 
 ![Display](relayboard.jpg)
 
 Connecting it all together. I power the thing from an ordinary USB 5V charger (the black and red wires to the right of the picture)
