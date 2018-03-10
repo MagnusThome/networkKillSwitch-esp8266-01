@@ -7,3 +7,11 @@ Using the libraries aREST and aREST_UI and this code you can switch the relay on
 
 I've tried it on a Gigabit network without any problems. But when you splice the cable make sure all the twisted pairs are well twisted all the way. Also do not connect any long wires to the resitors, this could make the network cable behave badly.
 
+Turn the connection off via a web page on your wifi:
+![Display](webpage.jpg)
+
+The code only works with this exakt relay board. 
+![Display](relayboard.jpg)
+
+Connecting it all together. I power the thing from an ordinary USB 5V charger (the two wires to the right of the picture)
+![Display](done.jpg)
