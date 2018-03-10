@@ -7,7 +7,7 @@ Using the libraries aREST and aREST_UI and this code you can switch the relay on
 
 Since the board needs to log on to your Wifi so you can surf to it's web page you must edit the code to enter your wifi network name and password.
 
-I've tried it on a Gigabit network without any problems. But when you splice the cable make sure all the twisted pairs are well twisted all the way. Also do not connect any long wires to the resitors, this could make the network cable behave badly.
+I've tried it on a Gigabit network without any problems. But when you splice the cable make sure all the twisted pairs are well twisted all the way. Also do not connect any long wires to the resistors, this could make the network cable behave badly.
 
 # Some pics or it didn't happen
 
