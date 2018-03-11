@@ -1,4 +1,5 @@
 # networkKillSwitch
+
 Yet another pretty crazy item. A guy wanted to remotely be able to make an ethernet cable disconnect and connect.
 
 So I spliced an ethernet cable and carefully connected two 22 Ohm resistors to the two wires of the twisted pair #2. That's the two twisted wires from pin 3 and 6. Then I connected the two resistors to a relay board that is specially made to hook up to an ESP8266-01.
@@ -9,13 +10,22 @@ Since the board needs to log on to your Wifi so you can surf to it's web page yo
 
 I've tried it on a Gigabit network without any problems. But when you splice the cable make sure all the twisted pairs are well twisted all the way. Also do not connect any long wires to the resistors, this could make the network cable behave badly.
 
+.
+
 # Some pics or it didn't happen
 
 Turn the connection off via a web page on your Wifi:
+
 ![Display](webpage.jpg)
 
-The code only works with relay boards that look exactly like this:. 
+The code only works with relay boards that look exactly like this:
+
 ![Display](relayboard.jpg)
 
 Connecting it all together. I power the thing from an ordinary USB 5V charger (the black and red wires to the right of the picture)
+
 ![Display](done.jpg)
+
+Yep, pretty small!
+
+![Display](small.jpg)
